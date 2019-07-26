@@ -1,22 +1,6 @@
 # devops_assignment
 
 There are two folders in this git each is used for different tasks.
-.
-├── mfa_user_module
-│   ├── mfaenforce.tf
-│   ├── mfapolicies
-│   │   ├── main.tf
-│   │   └── outputs.tf
-│   └── mfapolicy-attach
-│       ├── main.tf
-│       ├── outputs.tf
-│       └── vars.tf
-├── README.md
-└── users_module
-    ├── main.tf
-    ├── outputs.tf
-    ├── users.tf
-    └── vars.tf
 
 
 users_module:
